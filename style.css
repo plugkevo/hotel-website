@@ -3,6 +3,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;/*main website font*/
     font-size: 16px;
     text-align: center;
+    
 
 }
 .container{
@@ -18,5 +19,8 @@ h1.title{
     padding: 10px;
 }
 h1.title:hover{ 
-    
+    text-decoration: overline;
+    color: #a52a2a75;
+    transition: ease-in-out .7s;
+
 }
